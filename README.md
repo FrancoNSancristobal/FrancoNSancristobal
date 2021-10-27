@@ -7,7 +7,7 @@
 <div class="flex-container">
   <img height="400hv" src="https://64.media.tumblr.com/a0cb677a47a628793bdd23ccc04b9212/7b4d19ecedd372bd-b5/s1280x1920/6a0b74005d4c0a1d1261e876a8a9ef5d32ae8e8e.jpg" />
   
-  - ## Mencion destacada en olimpiadas nacionales de programacion - 2018✔️
+  Mencion destacada en olimpiadas nacionales de programacion - 2018✔️
 
   <img src="https://www.jmcprl.net/GIF%20CONSTR/GIF%20CONSTRUCCION%20(77).gif" alt="working" />
 </div> 

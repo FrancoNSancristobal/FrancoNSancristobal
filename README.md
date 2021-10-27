@@ -1,5 +1,3 @@
-### Hi there <img src="https://c.tenor.com/cc0MWNKKNcEAAAAM/cute-baby.gif" alt="animated" />
-
 <div class="flex-container">
-  <img src="https://imagendegatos.com/wp-content/uploads/2017/05/Im%C3%A1genes-Gif-De-Gatos-En-Anime-En-La-Computadora.gif" alt="animated" />
+  <img src="https://matrixwarehouse.co.za/wp-content/uploads/2021/07/Clippy.gif.pagespeed.ce.OhyqqbWKhw.gif" />
 </div> 

@@ -1,3 +1,3 @@
 <div class="flex-container">
-  <img src="https://matrixwarehouse.co.za/wp-content/uploads/2021/07/Clippy.gif.pagespeed.ce.OhyqqbWKhw.gif" />
+  <img src="https://www.jmcprl.net/GIF%20CONSTR/GIF%20CONSTRUCCION%20(77).gif" alt="animated" />
 </div> 
